@@ -52,9 +52,6 @@ nano stream.sh
 Содержимое файла stream.sh:
 
 ```
-bash
-Копировать
-Редактировать
 #!/bin/bash
 # Настройка для приема потока и отправки его в IceCast
 gst-launch-1.0 -v \
